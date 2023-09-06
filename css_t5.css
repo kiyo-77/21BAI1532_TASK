@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Noto+Sans&display=swap');
+#inp
+{
+    float:right;
+    margin-left:200px;
+    width:40%;
+    font-size:20px;
+    padding:10px;
+    margin-top:-10px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#zip
+{
+    float:right;
+    margin-left:400px;
+    width:40%;
+    font-size:20px;
+    padding:5px;
+    margin-top:20px;
+    font-family: 'Noto Sans', sans-serif;
+}
+select{
+    float:right;
+    margin-left:400px;
+    width:40%;
+    margin-top:20px;
+    font-size:20px;
+    font-family: 'Noto Sans', sans-serif;
+    padding:10px;
+
+}
+textarea
+{
+    float:right;
+    margin-left:400px;
+    width:40%;
+    margin-top:20px;
+    font-size:20px;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+#inner
+{
+    background-color: darkmagenta;
+    margin:200px;
+    margin-left:400px;
+    padding-left:150px;
+    padding-right:300px;
+    padding-top:50px;
+    padding-bottom:50px;
+    color:white;
+    width:50%;
+    font-size:30px;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+body
+{
+    background-color: rgb(246, 119, 246);
+    line-height: 50px;
+    font-family: 'Noto Sans', sans-serif;
+   
+}
+button{
+    width:50%;
+    background-color: white;
+    font-size:30px;
+    padding:10px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight:bold;
+}
+#gender
+{
+   
+    float:middle;
+    font-family: 'Noto Sans', sans-serif;
+}
+#gen
+{
+    float:right;
+    font-family: 'Noto Sans', sans-serif;
+}

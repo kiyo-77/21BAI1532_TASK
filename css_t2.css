@@ -1,0 +1,27 @@
+#mainMenu {
+	margin:10px;
+	width:900px;
+	font-family: sans-serif;
+}
+#mainMenu li {
+	display:block;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:1px solid blue;
+    color:blue;
+}
+
+#mainMenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#e0d6d6;
+	color:darkgray;
+    color:blue;
+}
+
+#mainMenu a:hover {
+	background-color:rgb(134, 134, 134);
+	color:#fff;
+}

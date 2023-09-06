@@ -1,0 +1,47 @@
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border:10px solid green;
+    margin-left:700px;
+  }
+
+  .oval {
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    border:10px solid green;
+    margin-left:700px;
+    border-radius: 50%;
+  }
+
+  .rectangle {
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    border:10px solid green;
+    margin-left:700px;
+
+   
+  }
+
+.squoval
+{
+   
+        height: 50px;
+        width: 100px;
+        background-color: white;
+        border:10px solid green;
+        margin-left:700px;
+        border-radius:25px;
+       
+      
+}
+th{
+    border-radius:25px;
+    border:2px solid black;
+}
+  td{
+    border-radius:25px;
+    border:2px solid black;
+  }
